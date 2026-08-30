@@ -150,7 +150,7 @@ st.markdown(
 DEFAULT_API_URL = "http://localhost:8000"
 
 
-def check_api_health(api_url: str) -> Tuple_Health := bool:
+def check_api_health(api_url: str) -> bool:
     try:
         r = requests.get(f"{api_url}/api/v1/health", timeout=1.0)
         return r.status_code == 200
