@@ -1,0 +1,37 @@
+[
+  {
+    "id": "EHR-001",
+    "patient_id": "P-201",
+    "category": "Critical Care / ICU",
+    "title": "Post-Op ICU Sedation & Pain Protocol",
+    "raw_note": "Patient s/p cardiac CABG. Infusing Morphine 2.5 mg/hr IV continuous. Administered Cefazolin 2g IV Q8H for surgical prophylaxis. Monitor urine output Q1H."
+  },
+  {
+    "id": "EHR-002",
+    "patient_id": "P-202",
+    "category": "Emergency Department",
+    "title": "Acute Asthma Exacerbation",
+    "raw_note": "62yo F presenting with wheezing and dyspnea. Administered Albuterol 2.5mg nebulized Q20MIN x3 doses and Dexamethasone 10mg IV push stat. Discharged on Prednisone 40mg PO daily for 5 days."
+  },
+  {
+    "id": "EHR-003",
+    "patient_id": "P-203",
+    "category": "Endocrinology / Nephrology",
+    "title": "Diabetic Kidney Disease Follow-up",
+    "raw_note": "Labs show eGFR 45. Adjusting medications: Metformin reduced to 500mg BID with meals. Started Empagliflozin 10mg once daily. Continue Losartan 50mg daily."
+  },
+  {
+    "id": "EHR-004",
+    "patient_id": "P-204",
+    "category": "Pediatrics",
+    "title": "Pediatric Otitis Media",
+    "raw_note": "Weight: 18 kg. Diagnosis: acute otitis media right ear. Rx: Amoxicillin 45 mg/kg/day divided BID for 10 days (give 400mg PO BID). Ibuprofen 100mg PO Q6H PRN fever > 38.5C."
+  },
+  {
+    "id": "EHR-005",
+    "patient_id": "P-205",
+    "category": "Psychiatry / Neurology",
+    "title": "Depression & Insomnia Management",
+    "raw_note": "Patient reports worsening anxiety and difficulty initiating sleep. Titrate Sertraline to 100mg PO every morning. Added Zolpidem 5mg PO at bedtime PRN insomnia. Discontinue Lorazepam 0.5mg PRN."
+  }
+]

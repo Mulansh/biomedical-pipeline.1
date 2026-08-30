@@ -1,14 +1,38 @@
 [
   {
     "patient_id": "P-101",
-    "raw_note": "pt presented with severe headache... prescribed Tylenol   500mg  BID for 5 days. patient noted mild fatigue!!"
+    "patient_name": "Eleanor Vance",
+    "department": "Neurology",
+    "raw_note": "pt presented with severe migraine headache... prescribed Tylenol 500mg BID for 5 days. patient noted mild fatigue!!"
   },
   {
     "patient_id": "P-102",
-    "raw_note": "Administered Amoxicillin 250 mg daily orally, discontinued past meds.   Follow up in 2 wks."
+    "patient_name": "Marcus Brody",
+    "department": "Infectious Disease",
+    "raw_note": "Administered Amoxicillin 250 mg daily orally, discontinued past meds. Follow up in 2 wks."
   },
   {
     "patient_id": "P-103",
-    "raw_note": "Metformin 1000mg twice daily with meals.    NO KNOWN ALLERGIES."
+    "patient_name": "Sophia Bennett",
+    "department": "Endocrinology",
+    "raw_note": "Metformin 1000mg twice daily with meals. Insulin Glargine 20 units SC at bedtime. NO KNOWN ALLERGIES."
+  },
+  {
+    "patient_id": "P-104",
+    "patient_name": "David Chen",
+    "department": "Cardiology",
+    "raw_note": "Patient started on Lisinopril 10mg PO once daily for hypertension and Atorvastatin 40mg at bedtime."
+  },
+  {
+    "patient_id": "P-105",
+    "patient_name": "Amina Al-Mansoor",
+    "department": "Pulmonology",
+    "raw_note": "Albuterol 2 puffs inhaled every 4 hours as needed for shortness of breath. Prednisone 20mg daily for 5 days taper."
+  },
+  {
+    "patient_id": "P-106",
+    "patient_name": "James O'Connor",
+    "department": "Gastroenterology",
+    "raw_note": "Omeprazole 40mg PO every morning before breakfast. Administer 1000ml 0.9% Normal Saline IV over 4 hours."
   }
 ]

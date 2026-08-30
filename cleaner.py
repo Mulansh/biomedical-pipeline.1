@@ -1,15 +1,20 @@
-import re
-def clean_text(text):
-     if not text:
-         return ''
-     text = re.sub(r'\s+', ' ', text.strip().lower())
-     return text
+"""Root re-export and CLI helper for Biomedical Clinical Text Cleaner.
 
+Provides backward-compatible entry points for legacy scripts and test harnesses.
+"""
+
+import sys
+import os
+
+# Add root directory to sys.path if not present
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from src.cleaner import clean_text, sanitize_clinical_text
+
+__all__ = ["clean_text", "sanitize_clinical_text"]
 
 if __name__ == "__main__":
-    # Let's test a messy medical string
     raw_sample = "  Patient   took   500mg  of   Aspirin. \n\t Check dosage daily.   "
-
     print("Original Text:")
     print(repr(raw_sample))
 
