@@ -1,0 +1,14 @@
+[
+  {
+    "patient_id": "P-101",
+    "raw_note": "pt presented with severe headache... prescribed Tylenol   500mg  BID for 5 days. patient noted mild fatigue!!"
+  },
+  {
+    "patient_id": "P-102",
+    "raw_note": "Administered Amoxicillin 250 mg daily orally, discontinued past meds.   Follow up in 2 wks."
+  },
+  {
+    "patient_id": "P-103",
+    "raw_note": "Metformin 1000mg twice daily with meals.    NO KNOWN ALLERGIES."
+  }
+]

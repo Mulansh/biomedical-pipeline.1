@@ -1,0 +1,4 @@
+streamlit
+pytest
+pydantic
+requests
